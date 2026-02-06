@@ -1,4 +1,4 @@
-# Silent Adaptation Prediction (D-Level)
+# Silent Adaptation Prediction
 
 This repository demonstrates a minimal proof-of-concept
 for detecting early silent biological adaptation before
@@ -11,4 +11,5 @@ therapy resistance emerges.
 - Dockerization is intentionally omitted.
 
 License: NO LICENSE
+
 
